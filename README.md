@@ -1,0 +1,1 @@
+# OpenGuessr-Cheat
