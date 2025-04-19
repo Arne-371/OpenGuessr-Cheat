@@ -17,7 +17,7 @@ A simple userscript for **OpenGuessr** that allows you to toggle the visibility 
 To use this userscript, you will need a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://www.greasespot.net/).
 
 1. Install a userscript manager (e.g., Tampermonkey or Greasemonkey).
-2. Create a new userscript in your manager and paste the code from the `OpenGuessr Map Toggle Button`.
+2. Create a new userscript in your manager and paste the code from the `OpenGuessr-Cheat`.
 3. Save and enable the script.
 
 ## How to Use
